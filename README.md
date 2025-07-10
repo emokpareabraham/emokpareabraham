@@ -12,12 +12,13 @@ I'm a data-driven professional with over 5 years of experience in financial anal
 - Post-Graduate Diploma in Data Analytics for Business (St. Clair College, 2025)  
 - MBA in Strategy & Operations (University of East London, 2023)
 
+📽️ **Projects**
+- Abgrill product recommendation Engine [View Project](https://github.com/emokpareabraham/Restaurant_analysis)
+
+
 🛠️ **Tech Stack**  
 `Python` | `SQL` | `Power BI` | `Tableau` | `Excel VBA` | `Snowflake` | `AWS Redshift` | `SharePoint` | `Teams`
-
-**Projects**
-- Abgrill product recommendation Engine [View Project](https://github.com/emokpareabraham/Restaurant_analysis)
--  
+ 
 
 
 📈 **Current Interests**  
