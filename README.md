@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Abraham E.
+### 👋 Hi, I'm Abraham
 
 I'm a data-driven professional with over 5 years of experience in financial analysis, equity research, and business intelligence. With a strong foundation in data analytics and an MBA, I specialize in transforming complex datasets into actionable insights that support strategic decision-making in finance, healthcare, and insurance sectors.
 
