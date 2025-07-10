@@ -15,6 +15,11 @@ I'm a data-driven professional with over 5 years of experience in financial anal
 🛠️ **Tech Stack**  
 `Python` | `SQL` | `Power BI` | `Tableau` | `Excel VBA` | `Snowflake` | `AWS Redshift` | `SharePoint` | `Teams`
 
+**Projects**
+- Abgrill product recommendation Engine [View Project](https://github.com/emokpareabraham/Restaurant_analysis)
+-  
+
+
 📈 **Current Interests**  
 - Financial modeling automation  
 - Equity research tools  
